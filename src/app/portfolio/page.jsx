@@ -25,7 +25,7 @@ const items = [
     id: 3,
     color: "from-violet-300 to-purple-300",
     title: "Travellor",
-    desc: "Developed and launched a YouTube Clone platform from scratch, focusing on enhancing user experience. As a result, we achieved a significant 20% boost in user engagement (HTML, CSS, JavaScript, NextJs ,Tailwind ,API ,Node ,Express ,Mongodb).",
+    desc: "Developed a dynamic travel site using Next.js, integrating server-side rendering for improved performance and SEO optimization.Utilized Tailwind CSS for efficient styling, ensuring responsive design across various devices, resulting in 20% boost inuser engagement (HTML, CSS, JavaScript, NextJs ,Tailwind ,API ,Node ,Express ,Mongodb).",
     img: "/project_image/travellor.png",
     link: "https://travllor.buylowcal.com/en/home",
   },
