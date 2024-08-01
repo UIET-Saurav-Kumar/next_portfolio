@@ -5,8 +5,16 @@ import Link from "next/link";
 import { useRef } from "react";
 
 const items = [
+  // {
+  //   id: 1,
+  //   color: "from-red-300 to-blue-300",
+  //   title: "Travllor",
+  //   desc: "Created appealing and intuitive user interface. Achieved 30% rise in user satisfaction and 30% faster page load Key features movie searching, comprehensive movie data presentation, and personalized movie suggestions, enhancinguser engagement by 30% (HTML ,SCSS , JavaScript ,React Js ,Redux ,API).",
+  //   img: "/project_image/movie.jpg", 
+  //   link: "https://boisterous-druid-d91784.netlify.app/",
+  // },
   {
-    id: 1,
+    id: 2,
     color: "from-red-300 to-blue-300",
     title: "Movie website",
     desc: "Created appealing and intuitive user interface. Achieved 30% rise in user satisfaction and 30% faster page load Key features movie searching, comprehensive movie data presentation, and personalized movie suggestions, enhancinguser engagement by 30% (HTML ,SCSS , JavaScript ,React Js ,Redux ,API).",
@@ -14,29 +22,22 @@ const items = [
     link: "https://boisterous-druid-d91784.netlify.app/",
   },
   {
-    id: 2,
+    id: 3,
     color: "from-blue-300 to-violet-300",
     title: "Youtube Clone",
     desc: "Designed and implemented a YouTube Clone platform, delivering a seamless user experience and enabling users tobrowse a diverse video library via the Rapid API, resulting in a 35% increase in user engagement (HTML, CSS, JavaScript, ReactJs ,Material UI ,API ,Axios).",
     img: "/project_image/youtube.png",
-    link: "https://lama.dev",
+    link: "https://647733e206c680108f070b06--golden-ganache-590ca3.netlify.app/",
   },
   {
-    id: 3,
+    id: 4,
     color: "from-violet-300 to-purple-300",
     title: "Travellor",
     desc: "Developed a dynamic travel site using Next.js, integrating server-side rendering for improved performance and SEO optimization.Utilized Tailwind CSS for efficient styling, ensuring responsive design across various devices, resulting in 20% boost inuser engagement (HTML, CSS, JavaScript, NextJs ,Tailwind ,API ,Node ,Express ,Mongodb).",
     img: "/project_image/travellor.png",
     link: "https://travllor.com/en/home",
   },
-  // {
-  //   id: 4,
-  //   color: "from-purple-300 to-red-300",
-  //   title: "Spotify Music App",
-  //   desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
-  //   img: "https://images.pexels.com/photos/18540208/pexels-photo-18540208/free-photo-of-wood-landscape-water-hill.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-  //   link: "https://lama.dev",
-  // },
+
 ];
 
 const PortfolioPage = () => {
